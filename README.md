@@ -5,7 +5,16 @@
 
 ## You have finally discovered my Github profil.
     
-<h2 align="center"> About me: </h2>
+
+# 🤔 About me: 
+
+- 🌱 I’m currently learning Artificial Intelligence
+- 📫 How to reach me farahselouane99@gmail.com
+- 😍 Emoji lover
+
+
+
+  
 
 
 
