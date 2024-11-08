@@ -12,7 +12,7 @@
   <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,vscode,github,,git,nodejs,python,javascript,c,java,mysql," />
+    <img src="https://skillicons.dev/icons?i=react,html,vscode,github,git,nodejs,python,javascript,c,java,mysql," />
     
 
    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
