@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm farah</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+farah+selouane;" />
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Artificial Intelligente .
 - 📫 How to reach me: farahselouane99@gmail.com
 - 😄 Pronouns: Anything you like.
   
-  <a href="https://https://www.instagram.com/faraah_prv_/profilecard/?igsh=ejdkZ215YmdtbjVl/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
-  </a>
-  <a href="https://https://www.facebook.com/farouha.el.180" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
-  </a>
 
  
