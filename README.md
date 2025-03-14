@@ -3,17 +3,17 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+farah+selouane;" />
 
-- 🌱 I’m currently learning **Artificial Intelligence and Cybersecurity**
+- 🎓 **Artificial Intelligence** Student.
 
-- 👨‍💻 All of my projects are available at [https://github.com/xdweeb](https://github.com/xdweeb)
+- 👨‍💻  Passionate about robotics, Arduino, and AI
 
-- 📝 I regularly write articles on [https://xdweb.me](https://xdweb.me)
+- 📝 Reach me at farahselouane99@gmail.com
 
-- 💬 Ask me about **Anything related to Robotics, Ai, or cybersecurity.**
+- 
 
-- 📫 How to reach me **xdweb.elyakouti@hotmail.com**
+- 
 
-- 📄 Know about my experiences [https://xdweb.me](https://xdweb.me)
+- 
 
 
 
