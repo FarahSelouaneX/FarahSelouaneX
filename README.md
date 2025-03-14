@@ -9,11 +9,11 @@
 
 - 📝 Reach me at farahselouane99@gmail.com
 
-- 
+- 🌱 Currently learning Python, databases, and machine learning
 
-- 
+- 🎨 Multimedia content creator & social media manager
 
-- 
+- 😍 Emoji lover | 💡 Always curious | 🚀 Future innovator
 
 
 
