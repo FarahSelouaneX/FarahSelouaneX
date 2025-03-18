@@ -5,12 +5,6 @@
 
 
 
-
-
-
-
-
-
     
 ## Hi, i'm farah ✨
     
@@ -25,6 +19,8 @@
 - 🎨 Multimedia content creator & social media manager
 
 - 😍 Emoji lover | 💡 Always curious | 🚀 Future innovator
+
+
 
 
 <img src="https://komarev.com/ghpvc/?username=farahprvx" alt="farahprvx" />
