@@ -1,3 +1,4 @@
+
 <img align="right"  />
 
 <h1 align="center">
@@ -7,7 +8,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=farahprvx&label=Profile%20views&color=0e75b6&style=flat" alt="farahprvx" />
 		   <img src="https://img.shields.io/github/followers/farahprvx?label=Followers" alt="farahprvx" />
 
-    
     
 - 🎓 **Artificial Intelligence** Student.
 
@@ -20,8 +20,14 @@
 - 🎨 Multimedia content creator & social media manager
 
 - 😍 Emoji lover | 💡 Always curious | 🚀 Future innovator
+- Social links:
+  <p align="center">
+<a href="https://www.linkedin.com/in/farah-selouane" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@farahprvx-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:farahselouane99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-farahselouane99@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="1000">
+<br><br>
 
 
 # 💻 Tech Stack:
@@ -40,10 +46,7 @@
 
 
 
-<p align="center">
-<a href="https://www.linkedin.com/in/farah-selouane" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@farahprvx-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:farahselouane99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-farahselouane99@gmail.com-blue?style=flat&logo=gmail"></a>
-</p>
+
 
 
 
