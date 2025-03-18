@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=farahprvx&label=Profile%20views&color=0e75b6&style=flat" alt="farahprvx" />
 		   <img src="https://img.shields.io/github/followers/farahprvx?label=Followers" alt="farahprvx" />
 
-    
+
 - 🎓 **Artificial Intelligence** Student.
 
 - 👨‍💻  Passionate about robotics, Arduino, and AI
@@ -26,7 +26,7 @@
 <a href="mailto:farahselouane99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-farahselouane99@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="1000">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="900">
 <br><br>
 
 
@@ -41,6 +41,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=farahprvx&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=farahprvx&theme=transparent&hide_border=false)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=farahprvx&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
