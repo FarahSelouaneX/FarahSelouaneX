@@ -19,7 +19,7 @@
 - 🎨 Multimedia content creator & social media manager
 
 - 😍 Emoji lover | 💡 Always curious | 🚀 Future innovator
-- Social links:
+- **Social links** :
   <p align="center">
 <a href="https://www.linkedin.com/in/farah-selouane" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@farahprvx-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:farahselouane99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-farahselouane99@gmail.com-blue?style=flat&logo=gmail"></a>
