@@ -37,9 +37,9 @@
 
 
 ##  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=farahprvx&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=farahprvx&theme=transparent&hide_border=false)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=farahprvx&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=FarahSelouaneX&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=FarahSelouaneX&theme=transparent&hide_border=false)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=FarahSelouaneX&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
