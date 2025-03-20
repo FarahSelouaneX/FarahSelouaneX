@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+farah+selouane;" />
-<h3 align="center">Artificial Intelligence Student | Robotics & Arduino Enthusiast </h3>
+<h3 align="center">Artificial Intelligence Student | Robotics & Arduino Enthusiast | Dynamic Event Organizer | Creative Multimedia Content Creator | Passionate Social Media Manager </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=farahprvx&label=Profile%20views&color=0e75b6&style=flat" alt="farahprvx" />
 		   <img src="https://img.shields.io/github/followers/farahprvx?label=Followers" alt="farahprvx" />
