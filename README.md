@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+farah+selouane;" />
 <h3 align="center">Artificial Intelligence Student | Robotics & Arduino Enthusiast | Dynamic Event Organizer | Creative Multimedia Content Creator | Passionate Social Media Manager </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=farahprvx&label=Profile%20views&color=0e75b6&style=flat" alt="farahprvx" />
-		   <img src="https://img.shields.io/github/followers/farahprvx?label=Followers" alt="farahprvx" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=FarahSelouaneX&label=Profile%20views&color=0e75b6&style=flat" alt="FarahSelouaneX" />
+		   <img src="https://img.shields.io/github/followers/FarahSelouaneX?label=Followers" alt="FarahSelouaneX" />
 
 
 - 🎓 **Artificial Intelligence** Student.
@@ -21,7 +21,7 @@
 - 😍 Emoji lover | 💡 Always curious | 🚀 Future innovator
 - **Social links** :
   <p align="center">
-<a href="https://www.linkedin.com/in/farah-selouane" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@farahprvx-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/farah-selouane" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-@farahprvx-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:farahselouane99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-farahselouane99@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
@@ -33,7 +33,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=farahprvx&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=FarahSelouaneX&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 
 ##  GitHub Stats:
